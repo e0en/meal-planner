@@ -1,0 +1,9 @@
+[._]*.s[a-w][a-z]
+Session.vim
+.netrwhist
+*~
+.vim/
+
+__pycache__/
+*.py[cod]
+.python-version
